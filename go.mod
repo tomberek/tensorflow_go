@@ -1,4 +1,4 @@
-module github.com/tomberek/tensorflow_go/tensorflow
+module github.com/tomberek/tensorflow_go
 
 go 1.14
 
